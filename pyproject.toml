@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "goit-pythonweb-hw-04"
+version = "0.1.0"
+description = "NEO GoIT.FWD with Python - H_W 4"
+authors = ["Fedir Novachynskyi"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11.5"
+aiopath = "0.6.11"
+aioshutil = "^1.5"
